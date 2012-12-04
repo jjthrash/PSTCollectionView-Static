@@ -1,0 +1,4 @@
+The sole purpose of this project is to export a .a file that can be linked into
+a non-ARC project.
+
+# vim:tw=80

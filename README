@@ -1,4 +1,11 @@
 The sole purpose of this project is to export a .a file that can be linked into
 a non-ARC project.
 
+PSTCollectionView is pulled in via git submodules, so do the following:
+
+```
+git submodule init
+git submodule update
+```
+
 # vim:tw=80
